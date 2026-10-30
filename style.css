@@ -1,0 +1,20 @@
+.li-item {
+    /* background-color: red; */
+}
+body{
+    font: arial, sans-serif;
+}
+table{
+    padding: 12px;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+th{
+    background-color: #d7e0f5;
+    font-size: 20px;
+}
+td{
+    text-align: center;
+}

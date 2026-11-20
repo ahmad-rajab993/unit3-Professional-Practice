@@ -1,0 +1,28 @@
+.sidebar{
+    width: 200px;
+    padding: var(--space-2);
+    border-right: 1px solid var(--border);
+}
+
+.sidebar ul{
+    list-style: none;
+    /* display: flex;
+    align-items: center;
+    flex-direction: column; */
+}
+
+.sidebar-link{
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    color: inherit;
+    border-radius: var(--radius) ;
+    text-decoration: none;
+    padding: var(--space-1);
+    
+}
+
+.sidebar-link:hover{ 
+    background: var(--primary);
+    color: var(--primary-foreground);
+}

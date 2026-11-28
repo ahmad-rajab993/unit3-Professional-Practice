@@ -1,0 +1,27 @@
+:root {
+  --background: #f9f9f9;
+  --foreground: #333333;
+
+  --card: #ececec;
+  --card-foreground: #333333;
+  
+  --primary: #6c5ce7;
+  --primary-foreground: #ffffff;
+
+
+  --muted: #c9c4b5;
+  --muted-foreground: #6e6e6e;
+
+  --accent: #8b9467;
+  --accent-foreground: #ffffff;
+  --border:#d4d4d4;
+  
+  --font-sans: Inter, system-ui, sans-serif;
+
+  --radius: 0.5rem;
+
+  
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 1.5rem; 
+}
